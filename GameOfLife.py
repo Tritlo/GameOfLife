@@ -1,3 +1,4 @@
+#Copyright 2012, Matthias Pall Gissurason
 #This file is part of GameOfLife.
 #
 #    GameOfLife is free software: you can redistribute it and/or modify

@@ -8,6 +8,7 @@
     <property name="type_hint">dialog</property>
     <property name="program_name">Game of Life</property>
     <property name="version">0.95</property>
+    <property name="copyright" translatable="yes">Copyright 2012, Matthías Páll Gissurarson</property>
     <property name="comments" translatable="yes">Click on the cells to change their state. 
 
 When you press play, the grid is evaluated based
@@ -39,6 +40,18 @@ Life-like cellular automata simulators.
 
 User experience may vary beyond
 default values.</property>
+    <property name="license" translatable="yes">GameOfLife is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+GameOfLife is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with GameOfLife.  If not, see &lt;http://www.gnu.org/licenses/&gt;.</property>
     <signal name="close" handler="Close_About" swapped="no"/>
     <signal name="delete-event" handler="Close_About" swapped="no"/>
     <signal name="response" handler="Close_About" swapped="no"/>
