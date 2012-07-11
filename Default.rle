@@ -1,0 +1,6 @@
+#C Made by Matthias Pall Gissurarson's Cellular Automata Simulator at
+#O 2012-04-13 10:22:28.694052
+x = 50, y = 30, rule = S23/B3, wrap = 0
+$4b2o$4b2o39b3o$2b2o$2b2o5$28b2o9b2o$27bobo9b2o$5b2o7b2o11b2o$5b2o6b
+obo$13b2o6b2o$21bobo$21bo$40b2o$40bobo$40bo3$29b3o$4b2ob2o20bo$4b2o
+b2o21bo$5bobo$3bobobobo36b2o$3bobobobo36b2o$3b2o3b2o!
