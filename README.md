@@ -8,3 +8,5 @@ See http://en.wikipedia.org/wiki/Life-like_cellular_automaton and http://en.wiki
 Requires libglade.
 
 If running on windows, using PyGTK's all-in-one installer should enable you to run the simulator. Get it from pygtk.org
+
+Copyright (C) 2012 Matthias Pall Gissurarson. See LICENSE for details.
